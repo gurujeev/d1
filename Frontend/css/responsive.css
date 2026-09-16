@@ -1,0 +1,69 @@
+/* Small phones */
+
+@media (max-width: 575.98px) {
+
+    .auth-card {
+
+        padding: 25px 20px;
+
+        border-radius: 14px;
+
+        box-shadow: none;
+    }
+
+    .brand-logo {
+
+        width: 56px;
+        height: 56px;
+
+        font-size: 26px;
+    }
+
+    .brand-title {
+
+        font-size: 1.55rem;
+    }
+
+    .brand-subtitle {
+
+        font-size: 0.8rem;
+    }
+
+    .theme-toggle {
+
+        top: 12px;
+        right: 12px;
+
+        width: 38px;
+        height: 38px;
+    }
+
+    .auth-footer {
+
+        flex-direction: column;
+
+        text-align: center;
+    }
+}
+
+
+/* Tablets */
+
+@media (min-width: 576px) and (max-width: 991.98px) {
+
+    .auth-card {
+
+        padding: 32px;
+    }
+}
+
+
+/* Large screens */
+
+@media (min-width: 1200px) {
+
+    .auth-card {
+
+        padding: 42px;
+    }
+}

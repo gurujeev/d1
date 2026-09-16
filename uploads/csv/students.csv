@@ -1,0 +1,9 @@
+roll_no,name,email,role,department,year,section,mentor_roll_no
+C001,Coordinator,gurumoorthyjeeva7@gmail.com,coordinator,CSE,,,
+M001,bhuvaneshwari,mentor1@college.edu,mentor,CSE,3,A,
+M002,akshai,mentor2@college.edu,mentor,CSE,3,B,
+23CS001,guru,gurumoorthy.j.2025.cse@rajalakshmi.edu.in,student,CSE,3,A,M001
+23CS002,gopy,gopyraj.m.2025.cse@rajalakshmi.edu.in,student,CSE,3,A,M001
+23CS003,Meena Raj,meena@college.edu,student,CSE,3,A,M001
+23CS004,Karthik S,karthik@college.edu,student,CSE,3,B,M002
+H001,Department HOD,hod@college.edu,hod,CSE,,,
